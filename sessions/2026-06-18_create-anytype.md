@@ -9,6 +9,8 @@
 - [x] إنشاء هيكل المشروع المحلي (ANYTYPE/)
 - [x] إنشاء README.md و INDEX.md
 - [x] إنشاء مجلدات sessions/ و improvements/
+- [x] إنشاء مستودع GitHub: https://github.com/HOZH72/ANYTYPE
+- [x] رفع الملفات إلى GitHub (git push)
 
 ## القرارات المهمة
 - سيتم تسجيل كل محادثة في ملف منفصل داخل sessions/
